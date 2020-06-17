@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Castle_DynamicProxy_Demo", "Castle_DynamicProxy_Demo\Castle_DynamicProxy_Demo.csproj", "{14A0144B-1D5F-4BBB-9E8D-1DB256788CFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14A0144B-1D5F-4BBB-9E8D-1DB256788CFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14A0144B-1D5F-4BBB-9E8D-1DB256788CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14A0144B-1D5F-4BBB-9E8D-1DB256788CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14A0144B-1D5F-4BBB-9E8D-1DB256788CFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB541D70-00FF-4511-8572-800A74398E0F}
+	EndGlobalSection
+EndGlobal
